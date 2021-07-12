@@ -1,4 +1,2 @@
 # CleanDir
-Script to run on Mac terminal to find hidden files and directories with the option to delete them to free up space.
-
-Useful to free up space on a USB drive used with a Mac.
+A shell script that deletes hidden files on USB drives (and anything else) if you use one with Mac, because Macs always make loads of hidden files that take up loads of space.
